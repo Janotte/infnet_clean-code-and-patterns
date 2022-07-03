@@ -1,0 +1,14 @@
+<contatos>
+    <contato>
+        <nome>Otacilo Vicente</nome>
+        <email>otacilio@exemplo.com</email>
+    </contato>
+    <contato>
+        <nome>Evanir Quintino</nome>
+        <email>evanir@exemplo.com</email>
+    </contato>
+    <contato>
+        <nome>Ozires Borges</nome>
+        <email>ozires@exemplo.com</email>
+    </contato>
+</contatos>

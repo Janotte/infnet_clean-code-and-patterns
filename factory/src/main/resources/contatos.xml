@@ -1,0 +1,10 @@
+<contatos>
+    <contato>
+        <nome>"Paulo"</nome>
+        <email>"paulo@test.exemplo.com"</email>
+    </contato>
+    <contato>
+        <nome>"Clarice"</nome>
+        <email>"clarice@test.exemplo.com"</email>
+    </contato>
+</contatos>
